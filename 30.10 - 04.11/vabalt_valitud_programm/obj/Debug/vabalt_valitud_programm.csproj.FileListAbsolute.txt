@@ -1,0 +1,14 @@
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.exe.config
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.pdb
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.pdb
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.exe.config
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\bin\Debug\vabalt_valitud_programm.pdb
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\30.10 - 04.11\vabalt_valitud_programm\obj\Debug\vabalt_valitud_programm.pdb
