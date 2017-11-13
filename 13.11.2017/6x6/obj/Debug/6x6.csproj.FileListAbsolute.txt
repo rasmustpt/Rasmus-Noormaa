@@ -4,3 +4,10 @@ C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\bin\Debug\6x6.ex
 C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\bin\Debug\6x6.pdb
 C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.exe
 C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.pdb
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\bin\Debug\6x6.exe.config
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\bin\Debug\6x6.exe
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\bin\Debug\6x6.pdb
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.exe
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\6x6\obj\Debug\6x6.pdb

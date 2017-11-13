@@ -1,0 +1,7 @@
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\bin\Debug\Array (vabanduste_programm).exe.config
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\bin\Debug\Array (vabanduste_programm).exe
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\bin\Debug\Array (vabanduste_programm).pdb
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\obj\Debug\Array (vabanduste_programm).csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\obj\Debug\Array (vabanduste_programm).csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\obj\Debug\Array (vabanduste_programm).exe
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\13.11.2017\Array (vabanduste_programm)\obj\Debug\Array (vabanduste_programm).pdb
