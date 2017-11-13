@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6x6", "6x6\6x6.csproj", "{3486511E-2DC4-4666-B20A-8D1A2EB2ABEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array (vabanduste_programm)", "Array (vabanduste_programm)\Array (vabanduste_programm).csproj", "{C291A2BD-C3CB-4484-AE53-D570C40E0309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{3486511E-2DC4-4666-B20A-8D1A2EB2ABEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3486511E-2DC4-4666-B20A-8D1A2EB2ABEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3486511E-2DC4-4666-B20A-8D1A2EB2ABEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C291A2BD-C3CB-4484-AE53-D570C40E0309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C291A2BD-C3CB-4484-AE53-D570C40E0309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C291A2BD-C3CB-4484-AE53-D570C40E0309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C291A2BD-C3CB-4484-AE53-D570C40E0309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2770AC-0779-4F2C-9774-3D7359CF203C}
 	EndGlobalSection
 EndGlobal
