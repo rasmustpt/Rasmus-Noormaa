@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\tunnikontroll\bin\Debug\tunnikontroll.exe.config
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\tunnikontroll\bin\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\tunnikontroll\bin\Debug\tunnikontroll.pdb
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\tunnikontroll\obj\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\tunnikontroll\obj\Debug\tunnikontroll.pdb
