@@ -1,6 +1,0 @@
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\bin\Debug\5.exe.config
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\bin\Debug\5.exe
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\bin\Debug\5.pdb
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\obj\Debug\5.csproj.CoreCompileInputs.cache
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\obj\Debug\5.exe
-C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\5\obj\Debug\5.pdb
