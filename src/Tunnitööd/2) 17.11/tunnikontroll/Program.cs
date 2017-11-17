@@ -43,8 +43,6 @@ namespace tunnikontroll
                     continue;
                 }
             }
-
-            Console.+-
             Console.WriteLine($"Subtotal: €{summa}");
             Console.WriteLine($"15% Gratuity: €{summa*0.15}");
             Console.WriteLine($"Total: €{summa-(summa*0.15)}");
