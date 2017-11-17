@@ -1,0 +1,6 @@
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\bin\Debug\2.exe.config
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\bin\Debug\2.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\bin\Debug\2.pdb
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\obj\Debug\2.exe
+C:\Users\Rasmus\Documents\C#\Kodused tööd\23.10 - 29.10\2\obj\Debug\2.pdb

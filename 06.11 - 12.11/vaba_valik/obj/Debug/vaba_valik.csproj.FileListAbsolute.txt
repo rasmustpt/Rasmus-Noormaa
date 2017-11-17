@@ -1,7 +1,0 @@
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\bin\Debug\vaba_valik.exe.config
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\bin\Debug\vaba_valik.exe
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\bin\Debug\vaba_valik.pdb
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\obj\Debug\vaba_valik.csprojResolveAssemblyReference.cache
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\obj\Debug\vaba_valik.csproj.CoreCompileInputs.cache
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\obj\Debug\vaba_valik.exe
-C:\Users\Rasmus\Documents\C#\Kodused tööd\06.11 - 12.11\vaba_valik\obj\Debug\vaba_valik.pdb
