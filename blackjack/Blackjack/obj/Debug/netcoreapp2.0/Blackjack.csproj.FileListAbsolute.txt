@@ -1,0 +1,11 @@
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\bin\Debug\netcoreapp2.0\Blackjack.deps.json
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\bin\Debug\netcoreapp2.0\Blackjack.runtimeconfig.json
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\bin\Debug\netcoreapp2.0\Blackjack.runtimeconfig.dev.json
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\bin\Debug\netcoreapp2.0\Blackjack.dll
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\bin\Debug\netcoreapp2.0\Blackjack.pdb
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.AssemblyInfo.cs
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.dll
+C:\Users\Rasmus\Documents\GitHub\Rasmus-Noormaa\blackjack\Blackjack\obj\Debug\netcoreapp2.0\Blackjack.pdb
