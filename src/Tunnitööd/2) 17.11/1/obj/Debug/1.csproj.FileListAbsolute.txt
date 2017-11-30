@@ -4,3 +4,9 @@ C:\Users\opilane\Desktop\Rasmus-Noormaa\17.11\1\bin\Debug\1.pdb
 C:\Users\opilane\Desktop\Rasmus-Noormaa\17.11\1\obj\Debug\1.csprojResolveAssemblyReference.cache
 C:\Users\opilane\Desktop\Rasmus-Noormaa\17.11\1\obj\Debug\1.exe
 C:\Users\opilane\Desktop\Rasmus-Noormaa\17.11\1\obj\Debug\1.pdb
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\bin\Debug\1.exe.config
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\bin\Debug\1.exe
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\bin\Debug\1.pdb
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\obj\Debug\1.exe
+C:\Users\opilane\Desktop\Rasmus-Noormaa\src\Tunnitööd\2) 17.11\1\obj\Debug\1.pdb
