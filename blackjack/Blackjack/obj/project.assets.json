@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasmus\\Documents\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\Blackjack.csproj",
+      "projectUniqueName": "C:\\Users\\Rasmus\\Desktop\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\Blackjack.csproj",
       "projectName": "Blackjack",
-      "projectPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\Blackjack.csproj",
+      "projectPath": "C:\\Users\\Rasmus\\Desktop\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\Blackjack.csproj",
       "packagesPath": "C:\\Users\\Rasmus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\obj\\",
+      "outputPath": "C:\\Users\\Rasmus\\Desktop\\GitHub\\Rasmus-Noormaa\\blackjack\\Blackjack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "2.0.0",
             "autoReferenced": true
           }
         },

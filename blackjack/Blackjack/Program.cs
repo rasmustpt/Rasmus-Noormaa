@@ -1,7 +1,5 @@
 ﻿/*
  * kuidas pildid lisada kaardipakki
- * üks maja kaartidest ära 'peita'
- * keel ühtlustada
  */
 
 using System;
@@ -12,41 +10,41 @@ namespace Blackjack
     {
         public static int Number()
         {
-            int[] numbrid = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            string[] pildid = { "S", "Q", "K", "A" };
+            int[] numbers = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            string[] pictures = { "S", "Q", "K", "A" };
             
             /*uuri kuidas pildid ka panna kaardipakki*/
-            Random suva_number = new Random();
-            int number = numbrid[suva_number.Next(numbrid.Length)];
+            Random rand_number = new Random();
+            int number = numbers[rand_number.Next(numbers.Length)];
 
             return number;
         }
 
         public static string Mast()
         {
-            string[] mastid = { "D", "S", "C", "H" };
+            string[] suits = { "D", "S", "C", "H" };
 
-            Random suva_mast = new Random();
-            string mast = mastid[suva_mast.Next(mastid.Length)];
+            Random rand_suit = new Random();
+            string suit = suits[rand_suit.Next(suits.Length)];
 
-            return mast;
+            return suit;
         }
 
-        public static void Finish(int your_summa, int my_summa)
+        public static void Finish(int your_sum, int my_sum)
         {
-            Console.WriteLine($"\nYou have {your_summa} points");
-            Console.WriteLine($"I have {my_summa} points\n");
+            Console.WriteLine($"\nYou have {your_sum} points");
+            Console.WriteLine($"I have {my_sum} points\n");
 
-            if (your_summa > my_summa && (your_summa < 21 && my_summa > 21))
+            if ((your_sum > my_sum || my_sum > 21) && your_sum < 21)
                 Console.WriteLine("You win!");
 
-            if (your_summa < my_summa && (my_summa < 21 && your_summa > 21))
+            if ((your_sum < my_sum || your_sum > 21) && my_sum < 21)
                 Console.WriteLine("I win!");
 
-            if (your_summa == my_summa && your_summa < 21 && my_summa < 21)
+            if (your_sum == my_sum && your_sum < 21 && my_sum < 21)
                 Console.WriteLine("Tie!");
 
-            if (your_summa > 21 && my_summa > 21)
+            if (your_sum > 21 && my_sum > 21)
                 Console.WriteLine("We are both burst, so house wins!");
 
             Console.ReadLine();
@@ -63,10 +61,10 @@ namespace Blackjack
             int d = Number();
 
             Console.WriteLine($"Your cards are {a+Mast()} and {b+Mast()}");
-            Console.WriteLine($"My cards are {c+Mast()} and {d+Mast()}\n\n");
+            Console.WriteLine($"My cards are {c+Mast()} and [?]\n\n");
 
-            int your_summa = a + b;
-            int my_summa = c + d;
+            int your_sum = a + b;
+            int my_sum = c + d;
 
             Console.WriteLine("What do you want to do now?\n");
             Console.WriteLine("a. draw one more card?");
@@ -74,8 +72,8 @@ namespace Blackjack
 
             string input = Console.ReadLine();
 
-            bool väärtus = true;
-            while (väärtus)
+            bool value = true;
+            while (value)
             {
                 if (input == "a")
                 {
@@ -83,10 +81,10 @@ namespace Blackjack
                     int f = Number();
 
                     Console.WriteLine($"\nYour next card is {e + Mast()}");
-                    Console.WriteLine($"My next card is {f + Mast()}\n\n");
+                    Console.WriteLine($"My next card is [?]\n\n");
 
-                    your_summa = your_summa + e;
-                    my_summa = my_summa + f;
+                    your_sum = your_sum + e;
+                    my_sum = my_sum + f;
 
                     Console.WriteLine("What do you want to do now?\n");
                     Console.WriteLine("a. draw one more card?");
@@ -98,17 +96,16 @@ namespace Blackjack
                     {
                         break;
 
-                        /*Finish(your_summa, my_summa);*/
+                        Finish(your_sum, my_sum);
                     }
                 }
                 if (input == "b")
                 {
                     break;
                     
-                } 
+                }
             }
-            Finish(your_summa, my_summa);
-
+            Finish(your_sum, my_sum);
             Console.ReadLine();
         }
     }
