@@ -1,0 +1,6 @@
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\bin\Debug\Ex4.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\bin\Debug\Ex4.pdb
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\obj\Debug\Ex4.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\obj\Debug\Ex4.pdb
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex4\obj\Debug\Ex4.csprojResolveAssemblyReference.cache

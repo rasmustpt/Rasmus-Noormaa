@@ -1,0 +1,5 @@
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex3\bin\Debug\Ex3.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex3\bin\Debug\Ex3.pdb
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex3\obj\Debug\Ex3.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex3\obj\Debug\Ex3.pdb

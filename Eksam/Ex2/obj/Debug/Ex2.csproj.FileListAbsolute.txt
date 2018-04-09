@@ -1,0 +1,5 @@
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex2\bin\Debug\Ex2.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex2\bin\Debug\Ex2.pdb
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex2\obj\Debug\Ex2.exe
+C:\Users\opilane\Documents\GitHub\Rasmus-Noormaa\Eksam\Ex2\obj\Debug\Ex2.pdb
